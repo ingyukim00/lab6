@@ -45,7 +45,7 @@ main .courses_list ul li {
     main .courses_list ul li {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-rows: 0.3fr 1fr 0.3fr;
     }
 
     main .courses_list ul li p {
